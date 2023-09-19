@@ -20,3 +20,7 @@ Folium supports a wide range of mapping visualizations, including
 </ul>
 
 This repository provides examples of how to use Folium to create all of these types of mapping visualizations.
+<img width="1309" alt="Screenshot 2023-09-18 at 10 42 18 PM" src="https://github.com/khantminnaing/foliummapping/assets/87215545/02f5f6ca-1e6a-4058-9a39-0c03db83fbed">
+<img width="1256" alt="Screenshot 2023-09-19 at 3 07 42 PM" src="https://github.com/khantminnaing/foliummapping/assets/87215545/c30a0690-88a8-4cff-a633-a673c92696c6">
+<img width="1256" alt="Screenshot 2023-09-19 at 3 07 24 PM" src="https://github.com/khantminnaing/foliummapping/assets/87215545/2c45fbd2-a9b3-4abc-ab11-77074ec8254b">
+
